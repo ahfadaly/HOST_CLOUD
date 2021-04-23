@@ -8,7 +8,7 @@ $(document).ready(function(){
 			$("header").addClass("top-scroll");
 			$("header .logo").css("color", "#000");
 			$("header .nav-list a").css("color", "#000");
-				$("header .nav-list li").css("borderBottom", "solid 1px #00A4B9");
+            $("header .nav-list li").css("borderBottom", "solid 1px #00A4B9");
 			$("header .link .lin").css({
 			 "border": "solid 2px #00A4B9",
 			  "color": "#00A4B9"
@@ -71,11 +71,5 @@ $('.slick').slick({
 	prevArrow:false,
 });
 // End slick
-
-
-
-
-
-
 
 });
